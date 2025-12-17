@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Kawaii☆Wake Up!",
+  "base_artist": "アイカツアカデミー！配信部",
+  "createdAt": "2025-12-17T06:56:57.226072Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kawaii☆Wake Up!",
+      "artist": "アイカツアカデミー!配信部",
+      "has_synced": false,
+      "path": "select/pl_01_Kawaii☆Wake_Up!_アイカツアカデミー!配信部.txt"
+    }
+  ]
+}
